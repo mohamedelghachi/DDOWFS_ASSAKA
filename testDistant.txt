@@ -16,3 +16,4 @@ Abdellah
 Salah-eddine
 Marouane
 Abdelouahed
+Ajout manuel en local
